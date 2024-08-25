@@ -13,8 +13,7 @@ Inasive ductal carcinoma (IDC) is - with ~ 80 % of cases - one of the most commo
 
 ## Our goal
 
-As we started with this analysis we asked ourselves if we would be able to improve the results that were presented 2014 in the paper [Automatic detection of invasive ductal carcinoma in whole slide images with Convolutional Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.4294&rep=rep1&type=pdf) of professor [Anant Madabhushi](https://case.edu/medicine/ccir/faculty/anant-madabhushi) and his group. Many years have passed by since then and it's very likely that all methods used in the paper have already been changed, improved and that new research has already been done. Nonetheless it's a very good exercise to practice or develop own deep learning and data science skills.
-
+As we started with this analysis we asked ourselves if we would be able to improve the results that were presented in 2024. 
 
 ## Methods presented in the paper
 
